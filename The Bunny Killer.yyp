@@ -102,7 +102,6 @@
     {"id":{"name":"spr_sofa","path":"sprites/spr_sofa/spr_sofa.yy",},},
     {"id":{"name":"spr_tv","path":"sprites/spr_tv/spr_tv.yy",},},
     {"id":{"name":"spr_vaso","path":"sprites/spr_vaso/spr_vaso.yy",},},
-    {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},},
     {"id":{"name":"tl_mobilias","path":"tilesets/tl_mobilias/tl_mobilias.yy",},},
   ],
   "resourceType":"GMProject",

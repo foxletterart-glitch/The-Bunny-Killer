@@ -38,6 +38,5 @@
     {"name":"spr_sala","order":3,"path":"sprites/spr_sala/spr_sala.yy",},
     {"name":"spr_sofa","order":3,"path":"sprites/spr_sofa/spr_sofa.yy",},
     {"name":"spr_tv","order":4,"path":"sprites/spr_tv/spr_tv.yy",},
-    {"name":"Sprite27","order":1,"path":"sprites/Sprite27/Sprite27.yy",},
   ],
 }
