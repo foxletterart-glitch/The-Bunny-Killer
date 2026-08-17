@@ -1,2 +1,2 @@
 destino_x=184
-destino_y=188
+destino_y=182
