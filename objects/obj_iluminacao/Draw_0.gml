@@ -25,3 +25,4 @@ surface_reset_target();
 draw_surface(surf,0,0)
 
 
+

@@ -57,7 +57,6 @@
     {"id":{"name":"obj_cama","path":"objects/obj_cama/obj_cama.yy",},},
     {"id":{"name":"obj_col","path":"objects/obj_col/obj_col.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
-    {"id":{"name":"obj_duto","path":"objects/obj_duto/obj_duto.yy",},},
     {"id":{"name":"obj_estante_frente","path":"objects/obj_estante_frente/obj_estante_frente.yy",},},
     {"id":{"name":"obj_estante_lado","path":"objects/obj_estante_lado/obj_estante_lado.yy",},},
     {"id":{"name":"obj_g_c","path":"objects/obj_g_c/obj_g_c.yy",},},

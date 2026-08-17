@@ -46,7 +46,7 @@
       ],"layers":[],"name":"player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"tl_m_v","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"tl_m_v","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":18,"SerialiseWidth":32,"TileCompressedData":[
           -171,-2147483648,-3,0,-29,-2147483648,-2,0,2,-2147483648,0,-29,-2147483648,2,0,-2147483648,-4,0,-27,
-          -2147483648,-5,0,-28,-2147483648,-4,0,-28,-2147483648,-4,0,-238,-2147483648,
+          -2147483648,2,0,554,-3,0,-28,-2147483648,-4,0,-28,-2147483648,-4,0,-238,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tl_mobilias","path":"tilesets/tl_mobilias/tl_mobilias.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_27343FA9","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_27343FA9","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_quarto","path":"sprites/spr_quarto/spr_quarto.yy",},"x":192.0,"y":80.0,},
