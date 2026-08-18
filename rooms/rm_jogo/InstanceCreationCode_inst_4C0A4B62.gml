@@ -1,2 +1,3 @@
-destino_x=778
-destino_y=134
+destino_x=350
+destino_y=y+8
+sala_porta=banheiro

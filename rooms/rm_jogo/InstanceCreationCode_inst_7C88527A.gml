@@ -1,2 +1,2 @@
-destino_x=184
-destino_y=182
+destino_x=x+8
+destino_y=338

@@ -20,6 +20,8 @@ vel_img=10
 xsc=1
 ysc=1
 ang=0
+//sala que eu estou
+sala_now=sala_estar
 animacao=function(){
 	var _numb=sprite_get_number(sprite)
 	image+=(image_speed/60)*vel_img

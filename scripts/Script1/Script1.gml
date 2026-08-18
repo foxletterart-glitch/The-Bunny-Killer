@@ -1,3 +1,4 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-global.cam=0
+#macro sala_estar 0
+#macro banheiro 1
+#macro cozinha 2
+#macro quarto 3

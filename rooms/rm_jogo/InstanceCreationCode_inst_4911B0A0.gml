@@ -1,2 +1,2 @@
-destino_x=252
-destino_y=184
+destino_x=503
+destino_y=332

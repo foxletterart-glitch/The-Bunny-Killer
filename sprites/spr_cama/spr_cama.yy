@@ -23,7 +23,7 @@
   ],
   "name":"spr_cama",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"quarto",
     "path":"folders/Sprites/mobilias_fisica/quarto.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":15,
-    "yorigin":49,
+    "yorigin":1,
   },
   "swatchColours":null,
   "swfPrecision":2.525,

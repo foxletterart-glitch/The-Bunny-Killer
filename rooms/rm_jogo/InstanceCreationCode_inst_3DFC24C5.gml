@@ -1,3 +1,2 @@
-destino_x=165
-destino_y=150
-camera=0
+destino_x=418
+destino_y=y
