@@ -12,6 +12,7 @@
     {"name":"obj_gaveta_p","order":1,"path":"objects/obj_gaveta_p/obj_gaveta_p.yy",},
     {"name":"obj_iluminacao","order":4,"path":"objects/obj_iluminacao/obj_iluminacao.yy",},
     {"name":"obj_interact","order":6,"path":"objects/obj_interact/obj_interact.yy",},
+    {"name":"obj_mapa","order":7,"path":"objects/obj_mapa/obj_mapa.yy",},
     {"name":"obj_pai_mobilias","order":1,"path":"objects/obj_pai_mobilias/obj_pai_mobilias.yy",},
     {"name":"obj_planta","order":2,"path":"objects/obj_planta/obj_planta.yy",},
     {"name":"obj_porta","order":1,"path":"objects/obj_porta/obj_porta.yy",},

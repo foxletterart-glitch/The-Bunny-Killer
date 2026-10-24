@@ -64,6 +64,7 @@
     {"id":{"name":"obj_gaveta_p","path":"objects/obj_gaveta_p/obj_gaveta_p.yy",},},
     {"id":{"name":"obj_iluminacao","path":"objects/obj_iluminacao/obj_iluminacao.yy",},},
     {"id":{"name":"obj_interact","path":"objects/obj_interact/obj_interact.yy",},},
+    {"id":{"name":"obj_mapa","path":"objects/obj_mapa/obj_mapa.yy",},},
     {"id":{"name":"obj_mesa","path":"objects/obj_mesa/obj_mesa.yy",},},
     {"id":{"name":"obj_pai_mobilias","path":"objects/obj_pai_mobilias/obj_pai_mobilias.yy",},},
     {"id":{"name":"obj_pia","path":"objects/obj_pia/obj_pia.yy",},},
